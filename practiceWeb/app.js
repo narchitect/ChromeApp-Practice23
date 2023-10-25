@@ -1,1 +1,3 @@
-document.title = "kim";
+const title = document.getElementById("title");
+
+title.innerText ="Got you!";
